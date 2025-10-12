@@ -1,0 +1,24 @@
+Airbirds/
+bin/
+models/
+src/analysis/*/
+data/ebd_IN-TN-CO_smp_relJun-2025.txt
+# === Ignore large or generated files ===
+*.pt
+*.h5
+*.zip
+*.mp4
+*.avi
+*.mov
+*.html
+*.pptx
+*.csv
+*.log
+
+# === Ignore directories ===
+__pycache__/
+results/
+References/
+data/
+output/
+runs/
